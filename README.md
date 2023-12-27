@@ -17,6 +17,10 @@ A beautiful and Easy-To-Use Banking & ATM system for ESX
 - Download https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_banking
 - Put it in the `[esx-addons]` directory
 
+## requirement
+
+ - ox_inventory
+
 ## Installation
 - Add this to your `server.cfg`:
 
